@@ -1,0 +1,5 @@
+homepage: "https://nurevo.jp/"
+documentation: "https://nurevo.jp/#install"
+versions:
+- sha: PLACEHOLDER
+  changeNotes: Initial release.
